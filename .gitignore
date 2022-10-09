@@ -1,3 +1,5 @@
 *.jpg
 *set.py
-*./tt/cv.py
+*/tt/cv.py
+*__pycache__
+/tt/*20.py
